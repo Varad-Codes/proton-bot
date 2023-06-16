@@ -1,4 +1,3 @@
-#+TITLE: README
 #+AUTHOR: Varad Sharma
 
 * Project PROTON
